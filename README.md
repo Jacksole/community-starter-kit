@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is a Github application that will  welcome new team members new team members whom create their first issue and open or merge their first pull request.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Sends a friendly message to new team memebers. 
 
 ## Getting started
 
