@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Hello and welcome
+Thank you for your pull request
+Great, thank you for provides use with this opportunity to make this project better
